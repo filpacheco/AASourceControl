@@ -1,0 +1,2 @@
+# AASourceControl
+Azure Automation - WorkshopPLUS
